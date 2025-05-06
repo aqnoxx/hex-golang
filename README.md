@@ -1,2 +1,2 @@
-# hex-golang-
+# hex-golang
 hex decode and encode methods.
